@@ -3,7 +3,7 @@
 ### 📂 Quick Navigation
 * [👉 Click here to view the bare-metal STM32 C code (main.c)](./CAN_Loopback_Project/Core/Src/main.c)
 * [👉 Click here to view the Arduino DAQ C++ code](./Arduino_Dashboard/Arduino_Dashboard.ino)
-* [📊 Download the raw CSV Telemetry Data](./Telemetry_Data.csv](https://github.com/user-attachments/files/25524652/Book1.version.1.csv))
+
 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
