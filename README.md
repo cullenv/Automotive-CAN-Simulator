@@ -1,5 +1,20 @@
 # Automotive CAN Bus Simulator & DAQ System
 
+![IMG_5553 - Edited](https://github.com/user-attachments/assets/2d2e0417-9ae8-4772-839f-30f3fc8b5021)
+![IMG_5553 - Edited](https://github.com/user-attachments/assets/2d2e0417-9ae8-4772-839f-30f3fc8b5021)
+<img width="738" height="516" alt="Screenshot 2026-02-24 110205" src="https://github.com/user-attachments/assets/78de52ce-9a4d-435a-acf1-d40f022b3cc6" />
+<img width="738" height="516" alt="Screenshot 2026-02-24 110205" src="https://github.com/user-attachments/assets/78de52ce-9a4d-435a-acf1-d40f022b3cc6" />
+
+
+
+[Book1 (version 1).csv](https://github.com/user-attachments/files/25524652/Book1.version.1.csv)
+
+### 📂 Quick Navigation
+* [👉 Click here to view the bare-metal STM32 C code (main.c)](./STM32_Node/Core/Src/main.c)
+* [👉 Click here to view the Arduino DAQ C++ code](./Arduino_Dash/Arduino_Dash.ino)
+* [📊 Download the raw CSV Telemetry Data](./Telemetry_Data.csv)
+
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
