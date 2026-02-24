@@ -1,14 +1,5 @@
 # Automotive CAN Bus Simulator & DAQ System
 
-![IMG_5553 - Edited](https://github.com/user-attachments/assets/2d2e0417-9ae8-4772-839f-30f3fc8b5021)
-![IMG_5553 - Edited](https://github.com/user-attachments/assets/2d2e0417-9ae8-4772-839f-30f3fc8b5021)
-<img width="738" height="516" alt="Screenshot 2026-02-24 110205" src="https://github.com/user-attachments/assets/78de52ce-9a4d-435a-acf1-d40f022b3cc6" />
-<img width="738" height="516" alt="Screenshot 2026-02-24 110205" src="https://github.com/user-attachments/assets/78de52ce-9a4d-435a-acf1-d40f022b3cc6" />
-
-
-
-[Book1 (version 1).csv](https://github.com/user-attachments/files/25524652/Book1.version.1.csv)
-
 ### 📂 Quick Navigation
 * [👉 Click here to view the bare-metal STM32 C code (main.c)](./STM32_Node/Core/Src/main.c)
 * [👉 Click here to view the Arduino DAQ C++ code](./Arduino_Dash/Arduino_Dash.ino)
@@ -47,9 +38,14 @@ The system simulates real-time analog signal processing, physical hardware inter
 * **Pointer Memory Management:** Passing hardware struct addresses by reference to prevent stack overflow and directly access memory-mapped registers.
 
 ## Hardware Bill of Materials (BOM)
-* STM32 Nucleo Development Board
+* STM32 Nucleo Development Board (F446RE)
 * Arduino Nano / Uno
 * SN65HVD230 CAN Bus Transceiver (3.3V Logic)
 * MCP2515 CAN Bus Module with TJA1050 Transceiver (5V Logic)
 * 10kΩ Rotary Potentiometer
-* Tactile Push Button
+* Push Button
+
+
+![IMG_5553 - Edited](https://github.com/user-attachments/assets/2d2e0417-9ae8-4772-839f-30f3fc8b5021)
+<img width="738" height="516" alt="Screenshot 2026-02-24 110205" src="https://github.com/user-attachments/assets/78de52ce-9a4d-435a-acf1-d40f022b3cc6" />
+[Book1 (version 1).csv](https://github.com/user-attachments/files/25524652/Book1.version.1.csv)
